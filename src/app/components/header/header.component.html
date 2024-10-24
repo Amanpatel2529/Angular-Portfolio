@@ -1,0 +1,12 @@
+<!-- header design -->
+<header class="header">
+  <a href="#" class="logo">Aman.<span class="animate" style="--i:1;"></span></a>
+  <div class="bx bx-menu" id="menu-icon" (click)="toggleMenu()"></div>
+  <nav class="navbar" [ngClass]="{ active: isMenuOpen }">
+    <a href="home" class="active">{{navItems[0]}}</a>
+    <a href="#about">{{navItems[1]}}</a>
+    <a href="#education">{{navItems[2]}}</a>
+    <a href="#skills">{{navItems[3]}}</a>
+    <a href="#contact">{{navItems[4]}}</a>
+  </nav>
+</header>
