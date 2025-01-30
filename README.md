@@ -1,27 +1,86 @@
-# AngularPortfolio
+# Angular Portfolio - Aman Patel
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
+Welcome to my **Angular Portfolio**! This website showcases my skills, projects, and professional journey as a developer. Built with Angular, it demonstrates modern web development techniques, including one-way data binding, two-way data binding, lazy loading, and string interpolation.
 
-## Development server
+## Live Demo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Visit the live site: [Angular Portfolio](https://amanpatel2529.github.io/Angular-Portfolio/)
 
-## Code scaffolding
+## Table of Contents
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Build
+---
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## About the Project
 
-## Running unit tests
+This portfolio is designed to provide a comprehensive look into my professional work and development skills. The site is structured to highlight my experience, projects, technical skills, and contact information in a clean, intuitive way.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Key Objectives
 
-## Running end-to-end tests
+- Present a professional online portfolio using Angular.
+- Apply core Angular functionalities and best practices.
+- Showcase web projects and accomplishments effectively.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Features
 
-## Further help
+- **Responsive Design** - Accessible across all devices.
+- **Modular Components** - Structured using Angular components for easy scalability.
+- **Lazy Loading** - Efficient loading of modules to optimize site performance.
+- **Data Binding** - Demonstrates one-way and two-way data binding with Angular.
+- **Interactive UI** - Includes various animations and effects for enhanced user experience.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Technologies Used
+
+- **Frontend**: Angular, TypeScript, HTML, CSS, SCSS
+- **Dependencies**: Angular CLI, Angular Animations, FontAwesome
+- **Build Tool**: Angular CLI
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/amanpatel2529/Angular-Portfolio.git
+   cd Angular-Portfolio
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**:
+   ```bash
+   ng serve
+   ```
+   Access the site locally at `http://localhost:4200`.
+
+## Usage
+
+1. **View Projects** - Browse my featured projects with descriptions and links.
+2. **Skills and Experience** - Explore my technical skills and professional background.
+3. **Contact** - Reach out to me via provided contact details or social media links.
+
+## Contributing
+
+Contributions are welcome! If you want to contribute or suggest improvements, please fork the repository, create a new branch, and submit a pull request.
+
+1. Fork the repository.
+2. Create a branch for your feature (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -m 'Add feature'`).
+4. Push to the branch (`git push origin feature-name`).
+5. Open a Pull Request.
+
+## License
+
+This project is licensed under the MIT License.
+---
+Thank you for checking out my portfolio! Feel free to connect with me if you have any questions or opportunities.
